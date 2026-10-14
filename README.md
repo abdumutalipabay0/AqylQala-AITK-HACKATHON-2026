@@ -1,3 +1,22 @@
+<h1 align="center">AqylQala · city debug mode</h1>
+
+<p align="center">
+  <img src="./readme-assets/shinji-diagram.jpg" width="640" alt="Shinji Ikari in a technical diagram collage" />
+</p>
+
+> Алматы.exe встретил яму. Создан тикет.
+
+Хакатонный проект для городских обращений: карта проблем, статусы, локальный ИИ и панель для администрации.
+
+- **Bug tracker IRL:** жители отмечают проблемы на карте.
+- **Control room:** модерация, аналитика и отчёты.
+- **Mecha loadout:** React / Vite, Node.js / Express, Prisma.
+
+*Ямы пока не чинятся через git revert. Работаем над интерфейсом реальности.*
+
+<details>
+<summary>Открыть мануал: запуск, устройство и подробности</summary>
+
 # 🏙️ AqylQala (АқылҚала) — Цифровая Соверенность Алматы
 
 ### *Интеллектуальная экосистема управления городом на базе локального ИИ*
@@ -103,3 +122,5 @@ npm run dev
 
 ---
 🏆 **Разработано для AITK HACK 2026** — *Будущее Алматы создается сегодня.*
+
+</details>
